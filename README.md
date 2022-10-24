@@ -2,7 +2,7 @@
 
 
 
-AZURE LINK : https://agreeable-mud-0b1eb1410.1.azurestaticapps.net
+AZURE LINK :https://purple-plant-04a574100.2.azurestaticapps.net/
 
 
 
