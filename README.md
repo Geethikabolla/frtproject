@@ -1,4 +1,4 @@
-# Future Ready Talent - MyPdfAddA
+# Future Ready Talent - SEO Dream
 
 
 
@@ -40,9 +40,8 @@ as our solution we made a webpage that where we kept all our pdfs and their clou
  -  Easy to Navigate in Both Mobile and Deaktop
  
 # Screenshots
-![Screenshot 2022-07-25 at 6 55 32 PM](https://user-images.githubusercontent.com/69979237/180792693-3d3ff0b4-7f03-436a-9b22-b0098d082c4a.jpg)
-
-![WhatsApp Image 2022-07-25 at 7 04 29 PM](https://user-images.githubusercontent.com/69979237/180792971-ef75a3bc-113e-4923-9787-a69ea26089bc.jpeg)
+![geethika frt p mob cap](https://user-images.githubusercontent.com/94095306/197462091-82b01c74-3f16-40d9-ac2d-51c326cf2dfa.PNG)
+![geethika frt p pc cap](https://user-images.githubusercontent.com/94095306/197462096-40ddb1e9-a4ab-4d3b-ab15-a3f1469b6257.PNG)
 
 # About Us
 We are BTech pursuing Students,from both 4th and #rd year we consider this as problem as we facing the same situtaion regularly.our team
