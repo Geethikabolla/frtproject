@@ -6,16 +6,11 @@ AZURE LINK : https://agreeable-mud-0b1eb1410.1.azurestaticapps.net
 
 
 
-MyPdfAddA is our project that is done as the solution for searching of pdfs of our subjects 
-as our solution we made a webpage that where we kept all our pdfs and their cloud links in our site which is used to help and download the pdf file that required
+ SEO Dream is our project that is done as the solution for marketing as our solution we made a webpage that  for the seo and digital marketing agency  to ellobrate marketing ideas and theories
 
 
 # Features
 -  Good UI
-
--  Separate pages according to our semesters
-
--  Every Pdf Will load from drive for instant view or for download
 
 -  Easy To Navigate
 
@@ -44,17 +39,14 @@ as our solution we made a webpage that where we kept all our pdfs and their clou
 ![geethika frt p pc cap](https://user-images.githubusercontent.com/94095306/197462096-40ddb1e9-a4ab-4d3b-ab15-a3f1469b6257.PNG)
 
 # About Us
-We are BTech pursuing Students,from both 4th and #rd year we consider this as problem as we facing the same situtaion regularly.our team
+We are BTech pursuing Students,from 3rd year we consider this as problem as we facing the same situtaion regularly
 
--  Uday Kiran Pamu(Lead)
+-  Geethika(Lead)
 
--  G Mallika
-
--  N Srilatha
-
--  M Poojitha
+-  Jahnavi S
 
 
 # Privacy Policies 
 
-https://www.freeprivacypolicy.com/live/a6b55d2e-c44e-4be6-9df2-b0f291e811db
+[https://www.freeprivacypolicy.com/live/a6b55d2e-c44e-4be6-9df2-b0f291e811db
+](https://www.freeprivacypolicy.com/live/a2cbd0ea-3cf9-4d82-96b8-1326ead21719)
