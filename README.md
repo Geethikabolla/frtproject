@@ -11,14 +11,15 @@ AZURE LINK :https://purple-plant-04a574100.2.azurestaticapps.net/
 
 # Features
 -  Good UI
-
 -  Easy To Navigate
-
 -  User Friendly
-
 -  It Contains a helping Chat(twiko)
-
-
+- Interactive and responsive UI.
+- It has many graphical and visual effects.
+- Have an aesthetically pleasing visual design and architecture.
+- Included the feedback Survey to increase the scope of improvement.
+- Users can login and register within this web based application.
+- Wide range of spa services are presented.
 
 # Languages or Technologies
 
@@ -28,15 +29,38 @@ AZURE LINK :https://purple-plant-04a574100.2.azurestaticapps.net/
 
 -  Js
 
+-  Health bot
+
 
 # Compatibility
  -  It Contains Great UI for Both Mobile and Desktop
  
  -  Easy to Navigate in Both Mobile and Deaktop
  
+### Deployment in Azure
+- search for azure healthbot and click onit.
+- start to create Azure healthbot abd fill all information and deploy it.
+- Revie and crosscheck everything before u deploy After deploying checked it.
+- we can use this helathbot links for our code.
+- Search for Static Web Apps Service Which is used for static web pages
+- Start to Create Static Web App
+- Select Subscription, Create Resource Group
+- Filled the Details of App informarion and Deployed Using through GitHub
+- Reviwed and Cross Checked everything and Started to Deploy
+- After Deploying Resource Group, Checked and run CI/CD in github actions
+- Finally Deployed my Static Web Ap
+ 
 # Screenshots
 ![geethika frt p mob cap](https://user-images.githubusercontent.com/94095306/197462091-82b01c74-3f16-40d9-ac2d-51c326cf2dfa.PNG)
 ![geethika frt p pc cap](https://user-images.githubusercontent.com/94095306/197462096-40ddb1e9-a4ab-4d3b-ab15-a3f1469b6257.PNG)
+
+## Tech Stack 💻
+
+- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
 
 # About Us
 We are BTech pursuing Students,from 3rd year we consider this as problem as we facing the same situtaion regularly
