@@ -21,7 +21,7 @@
 - Have an aesthetically pleasing visual design and architecture.
 - Included the feedback Survey to increase the scope of improvement.
 - Users can login and register within this web based application.
-- Wide range of spa services are presented.
+- Wide range of services are presented.
 
 # Languages or Technologies
 
