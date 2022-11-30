@@ -55,8 +55,15 @@
 # Screenshots
 ![geethika frt p mob cap](https://user-images.githubusercontent.com/94095306/197462091-82b01c74-3f16-40d9-ac2d-51c326cf2dfa.PNG)
 ![geethika frt p pc cap](https://user-images.githubusercontent.com/94095306/197462096-40ddb1e9-a4ab-4d3b-ab15-a3f1469b6257.PNG)
+# GitHub Workflow
+![jahnavi](https://user-images.githubusercontent.com/94095306/204721853-54be1f2d-5dd3-4cd9-b555-6e87b3867191.PNG)
 
-## Tech Stack 💻
+# Azure Dashboard
+![janu1](https://user-images.githubusercontent.com/94095306/204721882-b294e37d-fb87-4367-8120-396c2da1943a.PNG)
+# Azure HealthBot Dashboard
+![janu hb](https://user-images.githubusercontent.com/94095306/204722107-04a77d82-d8c0-4d7f-b695-a016f57fbe70.PNG)
+
+# Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
