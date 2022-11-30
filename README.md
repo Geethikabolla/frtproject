@@ -1,9 +1,11 @@
 # Future Ready Talent - SEO Dream
 
 
+**Project Link** - [https://yellow-wave-08f13f200.2.azurestaticapps.net](https://purple-plant-04a574100.2.azurestaticapps.net)
 
-AZURE LINK :https://purple-plant-04a574100.2.azurestaticapps.net/
+**project demo video link** -
 
+**project link(github repository)** - [https://github.com/Geethikabolla/frtproject](https://github.com/Geethikabolla/frtproject)
 
 
  SEO Dream is our project that is done as the solution for marketing as our solution we made a webpage that  for the seo and digital marketing agency  to ellobrate marketing ideas and theories
